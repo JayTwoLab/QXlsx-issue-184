@@ -1,0 +1,6 @@
+<RCC>
+	<qresource prefix="/">
+	<file>repro1.xlsx</file>
+	<file>repro2.xlsx</file>
+	</qresource>
+</RCC>
